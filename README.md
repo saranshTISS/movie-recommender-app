@@ -15,8 +15,8 @@ A machine learning-based web application that suggests personalized movie recomm
 - **HTML/CSS** for front-end design.
 
 ## Screenshots
-![Home Screen](./images/home_screen.png)
-![Recommendation Screen](./images/recommendation_screen.png)
+![Home Screen](/Users/saransh/Desktop/Screenshot 2025-01-07 at 11.27.40 AM.png)
+![Recommendation Screen](/Users/saransh/Desktop/Screenshot 2025-01-07 at 11.28.31 AM.png)
 
 ## Installation
 

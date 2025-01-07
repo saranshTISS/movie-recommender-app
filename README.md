@@ -11,12 +11,17 @@ A machine learning-based web application that suggests personalized movie recomm
 - **Python** for backend logic.
 - **Pandas** and **NumPy** for data processing.
 - **Scikit-learn** for collaborative filtering algorithms.
-- **Flask** for web app development.
+- **Streamlit** for the web app development.
 - **HTML/CSS** for front-end design.
 
 ## Screenshots
 ![Home Screen](screenshots/Screenshot_1.png)
 ![Recommendation Screen](screenshots/Screenshot_2.png)
+
+## Streamlit App Link
+You can directly access and interact with the Movie Recommender App from the following link:
+[Movie Recommender App on Streamlit Sharing](https://movie-recommender-app-zavejhtbpevzewdifjdu8g.streamlit.app/)
+
 ## Installation
 
 1. Clone the repository:
@@ -31,15 +36,15 @@ A machine learning-based web application that suggests personalized movie recomm
     ```bash
     pip install -r requirements.txt
     ```
-4. Run the Flask app:
+4. Run the Streamlit app locally:
     ```bash
-    python app.py
+    streamlit run app.py
     ```
-5. Open your browser and go to `http://127.0.0.1:5000` to use the app.
+5. Open your browser and go to `http://localhost:8501` to use the app.
 
 ## How it Works
 
-The Movie Recommender App uses content-based filtering to recommend movies. . You can input a favorite movie, and the app will suggest movies with similar attributes.
+The Movie Recommender App uses content-based filtering to recommend movies. You can input a favorite movie, and the app will suggest movies with similar attributes.
 
 ## Future Improvements
 - Add user login and rating submission functionality.
